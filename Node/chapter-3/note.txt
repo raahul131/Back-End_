@@ -1,0 +1,2 @@
+This chapter is all about the node package manager
+CLI -> cokmand line interface
